@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Biradar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Wanderlust](https://wanderlust-projectaffan.onrender.com/)
+- 🔭 I’m currently develop Wanderlust (https://wanderlust-projectaffan.onrender.com/)
 
 - 🌱 I’m currently learning **web development**
 
-- 👯 I’m looking to collaborate on [MYGPT](https://mygpt-lguc.vercel.app/)
+- 👯 I’m looking to collaborate on MYGPT(https://mygpt-lguc.vercel.app/)
 
 
 
