@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👯 I’m looking to collaborate on MYGPT(https://mygpt-lguc.vercel.app/)
-
+  
 
 
 - 💬 Ask me about **JavaScript,react,node.js,Express**
